@@ -1,2 +1,0 @@
-# raylibregister
-for itstep
